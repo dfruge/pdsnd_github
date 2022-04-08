@@ -1,6 +1,7 @@
 import time
 import math
 import pandas as pd
+# numpy library not used in this script and is disabled below
 # import numpy as np
 
 CITY_DATA = {
