@@ -319,5 +319,6 @@ def main():
             break
 
 
+# this runs first
 if __name__ == "__main__":
     main()
